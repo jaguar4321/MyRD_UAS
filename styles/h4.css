@@ -1,0 +1,7 @@
+h4 {
+    color: #333; /* Цвет текста */
+    font-family: Arial, sans-serif; /* Шрифт */
+    font-size: 1.25em; /* Размер шрифта */
+    font-weight: bold; /* Жирность шрифта */
+    text-align: center; /* Выравнивание текста по центру */
+}
